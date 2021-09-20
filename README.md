@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 55px src="https://i.imgur.com/KbE2Nce.jpeg" width="700" height="700"/>
   <p align="center">
-<a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
+<a href="#"><img title="SATHAN-10" src="https://img.shields.io/badge/SATHAN-10-white?colorA=%23ff0000&colorB=%23017e710&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Hisham-Muhammed/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/DT-SATHAN10/SATHAN-10?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> to make it public
+Project created by <a href="https://youtube.com/c/ICHUTECH">DT-SATHAN10</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://youtube.com/c/ICHUTECH">Hisham-Muhammed</a> 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ichu-s/sophia">
-    <img src="https://img.shields.io/github/repo-size/ichu-s/sophia?color=green&label=Repo%20total%20size&style=flat-square">
+  <a href="httsp://github.com/ichu-s/SATHAN-10">
+    <img src="https://img.shields.io/github/repo-size/ichu-s/SATHAN-10?color=green&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Hisham-muhammed/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hisham-muhammed/sophia?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hisham-muhammed/sophia?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/DT-SATHAN10/followers"><img title="Followers" src="https://img.shields.io/github/followers/DT-SATHAN10?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DT-SATHAN10/SATHAN-10?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DT-SATHAN10/SATHAN-10?color=blue&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DT-SATHAN10/SATHAN-10?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -38,7 +38,7 @@ Click WA logo to Join Support Group 👇
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
   </div>
-    ## 🎁Sophia
+    ## 🎁SATHAN-10
 
 | All Features 📢|Available ☑️|Version 🔎|
 
@@ -380,7 +380,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DT-SATHAN10/SATHAN-10-.git)
      </div>
 <br>
 <br >
@@ -395,8 +395,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia
-$ cd sophia
+$ git clone https://github.com/DT-SATHAN10/SATHAN-10
+$ cd SATHAN-10
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -405,8 +405,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia
-$ cd sophia
+$ git clone https://github.com/DT-SATHAN10/SATHAN-10
+$ cd SATHAN-10
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -426,9 +426,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Farhan dqz](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/Alien-alfa) | [![Ichu](https://camo.githubusercontent.com/e2f6083770813ffcb385e9e12f796ae3ee1d085ee71db650cde1dfce6e158301/68747470733a2f2f692e696d6775722e636f6d2f4b6245324e63652e6a706567)](https://github.com/Hisham-Muhammed) 
+  [![Farhan dqz](https://avatars.githubusercontent.com/u/83164448?v=4)](https://github.com/farhan-dqz) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/Alien-alfa) | [![Ichu](https://camo.githubusercontent.com/e2f6083770813ffcb385e9e12f796ae3ee1d085ee71db650cde1dfce6e158301/68747470733a2f2f692e696d6775722e636f6d2f4b6245324e63652e6a706567)](https://github.com/DT-SATHAN10) 
 ----|----|----
-[Farhan dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/Alien-alfa) | [Ichu](https://github.com/Hisham-Muhammed)
+[Farhan dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/Alien-alfa) | [Ichu](https://github.com/DT-SATHAN10)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
